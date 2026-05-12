@@ -1,1 +1,1 @@
-city:namo
+city: bengaluru  
